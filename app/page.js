@@ -26,8 +26,8 @@ export default function PortfolioDark() {
     {
       name: 'Smile Token Crypto X Ai',
       description: 'A Solidity DApp that rewards ETH based on smile ratings.',
-      href: '#',
-      technologies: ['Solidity', 'NextJs', 'Gemini API']
+      href: 'https://smile-cryto-x-ai.vercel.app',
+      technologies: ['Solidity', 'NextJs', 'Gemini LLM', 'Metamask', 'Cloudinary']
     }
   ];
 

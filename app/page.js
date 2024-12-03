@@ -20,7 +20,7 @@ export default function PortfolioDark() {
     {
       name: 'Spectrum',
       description: 'Enables Spotify Premium users to host rooms and share playlists.',
-      href: 'https://spectrum-delta-one.vercel.app',
+      href: 'https://spectrum-bice.vercel.app',
       technologies: ['NextJs', 'Spotify API', 'Prisma', 'AuthJs v5']
     },
     {

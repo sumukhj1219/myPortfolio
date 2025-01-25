@@ -19,6 +19,13 @@ export default function PortfolioDark() {
       image: '/image-craft.png'
     },
     {
+      name: 'Rakshak',
+      description: 'A blockchain based platform which carries out supply chain and manages military assets also enables soldiers to track the soldier movements using leaflet api and included alert systems.',
+      href: 'private repository',
+      technologies: ['NextJs', 'Solidity', 'Prisma', 'Aceternity', 'Leaflet', 'Shadcn', 'Postgresql', 'socket.io'],
+      image: '/rakshak.png'
+    },
+    {
       name: 'Spectrum',
       description: 'Enables Spotify Premium users to host rooms and share playlists.',
       href: 'https://spectrum-bice.vercel.app',

@@ -65,7 +65,7 @@ export default function PortfolioDark() {
 
   return (
     <div className="min-h-screen bg-black text-gray-100 flex justify-center items-center">
-      <div className="container mx-auto max-w-3xl grid grid-cols-1 gap-6 p-4">
+      <div className="container mx-auto md:max-w-3xl  grid grid-cols-1 gap-6 p-4">
         {/* Main Content */}
         <div className="space-y-6">
           <Card>
